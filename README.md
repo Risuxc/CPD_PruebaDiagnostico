@@ -7,7 +7,7 @@ Dado una cadena de caracteres de entrada, escriba un programa que retorne la can
 Se pide diseñar una consulta que entregue el nombre del curso, el año de inicio del curso, el promedio de notas, desviación estándar, nota mínima, nota máxima agrupados por el nombre de curso y el año de inicio del curso.
 
 * SELECT courses.name AS Nombre, start_date AS InicioCurso, score AS PromedioNotas
-FROM evaluations, courses, courses
+FROM evaluations, courses
 
 ¿En qué consiste la exclusión mutua?
 
