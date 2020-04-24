@@ -8,7 +8,7 @@ Se pide diseñar una consulta que entregue el nombre del curso, el año de inici
 
 * SELECT courses.name AS Nombre, start_date AS InicioCurso, score AS PromedioNotas
 
-FROM evaluations, courses
+* FROM evaluations, courses
 
 ¿En qué consiste la exclusión mutua?
 
